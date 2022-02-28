@@ -17,7 +17,7 @@ export const LeftSide = styled.div`
   width: 50vw;
   font-weight: bold;
   background: url(${background});
-  opacity: 0.8;
+  opacity: 0.9;
   background-size: 65vw 100vh;
   background-repeat: no-repeat;
   color: #fff;
